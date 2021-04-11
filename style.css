@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+    color:black;
+    font-size: 9mm;
+  
+    
+}
+#centrado{
+    text-align: justify;
+}
+h2,h3{
+    text-align: center;
+    font-size:6mm;
+}
+body{
+
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
